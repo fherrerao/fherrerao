@@ -1,5 +1,27 @@
-### Hi there 👋
+# Hi there 👋. I'm Fernando
+ 
+<img width=100% src="https://user-images.githubusercontent.com/91301423/150608951-cf5fc8b3-e4b6-4c4d-8bfd-a319016abe5d.png" alt="">
 
+## About me
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {         
+         js: ["Node"],
+         csharp: ["Asp.net"],         
+      },
+      databases: ["mySQL", "SQLServer"],      
+   },
+   currentOccupation: ["Microverse student"],   
+};
+```
 <!--
 **fherrerao/fherrerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +36,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Languages used
+<p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fherrerao&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
+## My GitHub stats
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fherrerao&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
