@@ -1,6 +1,5 @@
 # Hi there 👋. I'm Fernando
-
-[![](https://user-badge.committers.top/ecuador/fherrerao.svg)](https://user-badge.committers.top/ecuador/fherrerao) ![visitors](https://komarev.com/ghpvc/?username=fherrerao)
+[![committers.top badge](https://user-badge.committers.top/ecuador_public/fherrerao.svg)](https://user-badge.committers.top/ecuador_public/fherrerao) ![visitors](https://komarev.com/ghpvc/?username=fherrerao)
  
 <img width=100% src="https://user-images.githubusercontent.com/91301423/150608951-cf5fc8b3-e4b6-4c4d-8bfd-a319016abe5d.png" alt="">
 
