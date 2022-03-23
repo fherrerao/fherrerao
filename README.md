@@ -1,4 +1,6 @@
 # Hi there 👋. I'm Fernando
+
+[![](https://user-badge.committers.top/ecuador/fherrerao.svg)](https://user-badge.committers.top/ecuador/fherrerao) ![visitors](https://komarev.com/ghpvc/?username=fherrerao)
  
 <img width=100% src="https://user-images.githubusercontent.com/91301423/150608951-cf5fc8b3-e4b6-4c4d-8bfd-a319016abe5d.png" alt="">
 
@@ -42,5 +44,3 @@ Here are some ideas to get you started:
 
 ## My GitHub stats
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fherrerao&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### Visits:   <img src="https://profile-counter.glitch.me/fherreao/count.svg" />
