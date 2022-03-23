@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Languages used
 <p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fherrerao&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ## My GitHub stats
 [![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=fherrerao&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Visits:   <img src="https://profile-counter.glitch.me/fherreao/count.svg" />
