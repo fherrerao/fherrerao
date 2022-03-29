@@ -18,7 +18,7 @@ const aboutMe = {
          js: ["Node"],
          csharp: ["Asp.net"],         
       },
-      databases: ["mySQL", "SQLServer", "PostgreSQL"],      
+      databases: ["PostgreSQL", "SQLServer", "mySQL"],      
    },
    currentOccupation: ["Microverse student"],   
 };
