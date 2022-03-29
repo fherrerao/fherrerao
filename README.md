@@ -11,14 +11,14 @@ const aboutMe = {
    code: [JavaScript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap"]
+         js: ["React", "Redux"],
+         css: ["Bootstrap", "Sass"]
       },
       backEnd: {         
          js: ["Node"],
          csharp: ["Asp.net"],         
       },
-      databases: ["mySQL", "SQLServer"],      
+      databases: ["mySQL", "SQLServer", "PostgreSQL"],      
    },
    currentOccupation: ["Microverse student"],   
 };
