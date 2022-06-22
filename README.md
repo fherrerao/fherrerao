@@ -15,8 +15,7 @@ const aboutMe = {
          css: ["Bootstrap", "Sass"]
       },
       backEnd: {         
-         js: ["Node"],
-         csharp: ["Asp.net"],         
+         Ruby: ["Ruby on Rails"]
       },
       databases: ["PostgreSQL", "SQLServer", "mySQL"],      
    },
