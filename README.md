@@ -19,7 +19,7 @@ const aboutMe = {
       },
       databases: ["PostgreSQL", "SQLServer", "mySQL"],      
    },
-   currentOccupation: ["Microverse student"],   
+   currentOccupation: ["Open to work"],   
 };
 ```
 <!--
